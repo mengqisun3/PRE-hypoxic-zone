@@ -43,7 +43,7 @@ flowchart TD
     
 ```
 ## Data availability
-- Raw Sequencing Reads: Deposited in the NCBI Sequence Read Archive (SRA) under BioProject PRJNA1243077.
+- Raw Sequencing Reads: Deposited in the NCBI Sequence Read Archive (SRA) under BioProject PRJNA1243077 [Direct Link](https://www.ncbi.nlm.nih.gov/bioproject/?term=(PRJNA1243077)%20AND%20bioproject_sra[filter]%20NOT%20bioproject_gap[filter]).
 
 - Microbial metagenome-assembled genomes (MAGs): Deposited on Figshare under the project "Microbiome of the Pearl River Estuary summer hypoxic zone" (DOI: 10.6084/m9.figshare.28740248 | [Direct Link](https://figshare.com/s/72c9758d779f745bc5e4)).
 
