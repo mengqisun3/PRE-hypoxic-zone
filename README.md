@@ -20,7 +20,8 @@ These scripts were originally run on a HPC cluster using the PBS Pro job schedul
 - Data Processing: Python 3 (pandas), SeqKit
 
 ```text
-├── README.md               # Pipeline documentation and usage instructions
+├── README.md   # Pipeline documentation and usage instructions
+├── Figure_S1.pdf   # Sequence processing methodology summary (Supplementary figure in Frontiers in Microbiology publication)
 └── scripts/
     ├── 01_pbs_0.2_DNA_assembly.sh  # Hybrid assembly and polishing of microbial cellular fraction (Unicycler,BWA,SAMtools,Pilon)
     ├── 02_pbs_0.2_bins.sh  # Binning and dereplication (MetaWRAP, dRep)
